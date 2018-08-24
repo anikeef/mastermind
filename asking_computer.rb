@@ -1,0 +1,3 @@
+class AskingComputer
+
+end
